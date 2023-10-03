@@ -1,3 +1,5 @@
 dataset.csv
 dataset.xlsx
 __pycache__/
+dynamic-pricing-env/
+model.pth
